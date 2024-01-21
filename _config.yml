@@ -21,16 +21,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  sorensenjs
-#mastodon:
-#  - username: sorenjs
-#    instance: mastodon.social
 
 # Build settings
 markdown: kramdown
-remote_theme: pages-themes/cayman@v0.2.0
+theme: minimal
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
