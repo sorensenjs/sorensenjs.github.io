@@ -16,22 +16,17 @@ Computer Scientist, Electrical Engineer
 Engineering lead for the Jigsaw PerspectiveAPI transformer based user generated content classification system
 currently used by dozens of social media companies in moderation
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Machine Learning, Language Modeling, Natural Language Processing, Speech Recognition, Machine Translation, Cryptography
 
 
 ## Education
 
 `1983-1993`
 __Rensselaer Polytechnic Institute - Troy, New York__
- - Ph. D. Electrical Engineering, May 1993
- - M. Eng. Computer and Systems Engineering, May 1988
+ - Ph. D. Electrical Engineering, May 1993 - Doctoral Thesis "Hierarchical Pattern Classification for High Performance Text-independent Speaker Verification Systems"
+ - M. Eng. Computer and Systems Engineering, May 1988 - Masters Thesis "[Extraction of a single voice from a channel containing multiple simultaneous speakers](https://eds.p.ebscohost.com/eds/detail/detail?vid=6&sid=7a80aebd-de47-4159-88ef-21a16e430c1c%40redis&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=rpi.1150124860&db=cat08351a)" 
  - B. S. Computer and Systems Engineering with Minor in Management, May 1987
 
 
@@ -100,11 +95,20 @@ Lei, Senior, Gruenstein & Sorensen, Interspeech 2013.
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`May 2010 - Present`
+__Google, Inc__, New York, NY
 
-- Warden
-- Minted coins
+- Senior Software Engineer 2010 - 2014
+- Staff Software Engineer 2014 - Present
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Jan 1997 - April 2010`
+__IBM Thomas J Watson Research Center__, Yorktown Heights, NY
+
+- Senior Software Engineer 1999 - 2010
+- Advisory Software Engineer 1997 - 1999
+
+`1993 - 1996`
+__Dictaphone Corporation__, Stratford, CT
+
+- Member Technical Staff 1996
+- Engineering Specialist 1993-1996
