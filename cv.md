@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jeffrey Sorensen
+Compute Scientist, Electrical Engineer
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
