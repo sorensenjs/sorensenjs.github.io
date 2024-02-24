@@ -24,6 +24,7 @@ github_username:  sorensenjs
 
 # Build settings
 markdown: kramdown
+style: sorenj
 theme: minima
 plugins:
   - jekyll-feed
