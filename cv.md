@@ -16,7 +16,7 @@ Computer Scientist, Electrical Engineer
 Engineering lead for the Jigsaw PerspectiveAPI transformer based user generated content classification system
 currently used by dozens of social media companies in moderation workflows.
 
-### Research interests
+## Research interests
 
 - Machine Learning
 - Language Modeling
@@ -27,7 +27,7 @@ currently used by dozens of social media companies in moderation workflows.
 
 ## Education
 
-`1983-1993`
+`1983 - 1993`
 __Rensselaer Polytechnic Institute - Troy, New York__
  - Ph. D. Electrical Engineering, May 1993
  - - Thesis "[Hierarchical Pattern Classification for High Performance Text-independent Speaker Verification Systems](https://search.worldcat.org/title/1150132953)"
