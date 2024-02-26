@@ -14,7 +14,7 @@ Computer Scientist, Electrical Engineer
 ## Currently
 
 Engineering lead for the Jigsaw PerspectiveAPI transformer based user generated content classification system
-currently used by dozens of social media companies in moderation
+currently used by dozens of social media companies in moderation workflows.
 
 ### Research interests
 
@@ -30,9 +30,9 @@ currently used by dozens of social media companies in moderation
 `1983-1993`
 __Rensselaer Polytechnic Institute - Troy, New York__
  - Ph. D. Electrical Engineering, May 1993
- - - Doctoral Thesis "Hierarchical Pattern Classification for High Performance Text-independent Speaker Verification Systems"
+ - - Thesis "[Hierarchical Pattern Classification for High Performance Text-independent Speaker Verification Systems](https://search.worldcat.org/title/1150132953)"
  - M. Eng. Computer and Systems Engineering, May 1988
- - - Masters Thesis "[Extraction of a single voice from a channel containing multiple simultaneous speakers](https://eds.p.ebscohost.com/eds/detail/detail?vid=6&sid=7a80aebd-de47-4159-88ef-21a16e430c1c%40redis&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=rpi.1150124860&db=cat08351a)" 
+ - - Thesis "[Extraction of a single voice from a channel containing multiple simultaneous speakers](https://eds.p.ebscohost.com/eds/detail/detail?vid=6&sid=7a80aebd-de47-4159-88ef-21a16e430c1c%40redis&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=rpi.1150124860&db=cat08351a)" 
  - B. S. Computer and Systems Engineering with Minor in Management, May 1987
 
 
@@ -116,13 +116,13 @@ Lei, Senior, Gruenstein & Sorensen, Interspeech 2013.
 
 ## Occupation
 
-`May 2010 - Present`
+`2010 - Present`
 __Google, Inc__, New York, NY
 
 - Senior Software Engineer 2010 - 2014
 - Staff Software Engineer 2014 - Present
 
-`Jan 1997 - April 2010`
+`1997 - 2010`
 __IBM Thomas J Watson Research Center__, Yorktown Heights, NY
 
 - Senior Software Engineer 1999 - 2010
