@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Jeffrey Sorensen's CV
+title: CV
 ---
 # Jeffrey Sorensen
 Computer Scientist, Electrical Engineer
