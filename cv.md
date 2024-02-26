@@ -113,6 +113,19 @@ Lei, Senior, Gruenstein & Sorensen, Interspeech 2013.
 
 [Apparatus and methods for identifying homophones among words in a speech recognition system](https://patents.google.com/patent/US6269335B1/en), Ittycheria, Maes, Monkowski & Sorensen, 1998
 
+## Professional Societies
+
+IEEE - Member since 1988
+
+ACM - Member since 1996
+
+Association for Computational Linguistics
+- ACL Area Chair
+- SemEval Reviewer
+- Workshop on Online Abuse and Harms Reviewer
+
+New York Acadamy of Sciences
+
 
 ## Occupation
 
