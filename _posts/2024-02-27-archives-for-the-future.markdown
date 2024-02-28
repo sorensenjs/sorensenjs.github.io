@@ -40,4 +40,4 @@ by credit bureaus and sold back to law enforcement. There's the familiar themes 
 hacker ethos, but the most surprising part of this story is that its utterly unknown.
 Hank is like a Forest Gump of the world of PCs, and an impressive array of famous names
 are there in the book trying to figure how to exploit his technology without ever
-being associated with him.
+being associated with or paying him.
