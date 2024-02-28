@@ -31,7 +31,7 @@ affect only specific people in a building as large as an embassy, the focus of t
 was on "how could the Russians have done this?"
 
 The second book [The Hank Show](https://www.nytimes.com/2023/10/04/books/review/the-hank-show-mckenzie-funk.html?unlocked_article_code=1.Y00.DM_F.KWdFNax-ZwsZ&smid=url-share)
-by McKenzie Funk about the unlikely protagonist Hank Asher. A Tony Soprano-esque figure who
+by McKenzie Funk features an unlikely protagonist: [Hank Asher](https://en.wikipedia.org/wiki/Hank_Asher). A Tony Soprano-esque figure who
 was a drug smuggler and a violent boss but who managed, during his career to launch what
 became multi-billion dollar data broker firms no less than three times. It's a story that
 anticipates Kashmir Hill's [Your Face Belongs To Us](https://www.simonandschuster.co.uk/books/Your-Face-Belongs-to-Us/Kashmir-Hill/9781398509177).
