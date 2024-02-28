@@ -21,8 +21,8 @@ By Suzanne O’Sullivan. This book is quite disturbing as the author travels the
 meeting and treating people who suffer from an array of illnesses. Many of these are
 what people call "psychosomatic" illnesses, but this carries a stigma that the problem
 is imagined, or is somehow the fault of the sufferer. What becomes increasingly clear through
-Suzanne's work is that these illnesses are inflicted upon people by others in there social
-context. Disturbingly sometimes by their own parents who are simultaneously fighting
+Suzanne's work is that these illnesses are inflicted upon people by others in their social
+context. Sometimes by their own parents who are simultaneously fighting
 ceaselessly against doctors and governments. The news portion is the section of the book
 discussing the [Havanna Syndrome](https://en.wikipedia.org/wiki/Havana_syndrome) - an
 embarassing failure of both the medical and journalistic establishments. Despite the simple
