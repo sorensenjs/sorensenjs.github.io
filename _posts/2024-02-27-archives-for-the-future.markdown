@@ -7,7 +7,7 @@ categories: book reviews
 
 A recent Wikimedia Foundation [blog post](https://diff.wikimedia.org/2024/02/19/communicating-diversity-links-between-journalism-and-the-wikimedia-universe/)
 described the work of a Chilean collective of journalists who dispense with the noise of 
-"what's news" and instead use their time and resource to investigate stories and
+"what's news" and instead use their time and resources to investigate stories and
 "to begin the narratives of that which we will see in the future as an archive."
 What seems like a novel approach actually is a return to the roots of journalism.
 Especially if you consider that even though journalism is laser focused on *now*
