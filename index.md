@@ -5,8 +5,8 @@
 layout: home
 ---
 <a rel="me" href="https://mastodon.social/@sorenjs">
-  <img src="https://mastodon.social/favicon.ico" alt="Mastodon"/>
+  <img src="https://mastodon.social/favicon.ico" width="32" height="32" alt="Mastodon"/>
 </a>
 <a href="https://www.facebook.com/sorensen.jeffrey/">
-  <img src="https:/facebook.com/favicon.ico" alt="Facebook"/>
+  <img src="https://www.facebook.com/favicon.ico" width="32" height="32" alt="Facebook"/>
 </a>
