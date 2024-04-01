@@ -6,7 +6,7 @@ categories: book reviews
 ---
 
 The financial writer David Enrich writes about the people and organizations behind
-the (Libor scandal)[https://en.wikipedia.org/wiki/Libor_scandal] in a way that reminds
+the [Libor scandal](https://en.wikipedia.org/wiki/Libor_scandal) in a way that reminds
 me of Michael Lewis, but without the misguided fawning admiration for his subject.
 
 This book has me furious - with a sprawling cast of characters that, when faced
