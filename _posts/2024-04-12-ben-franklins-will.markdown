@@ -10,7 +10,8 @@ central figure. His influence is recognized with his unusual place on the $100 b
 When he died, he tried to change the future through
 a curious set of bequests that played Boston and Philadelphia against each other.
 
-In _Benjamin's Franklin's Last Bet_ Michael Meyer follows the money and it
+In [_Benjamin's Franklin's Last Bet_](https://www.harpercollins.com/products/benjamin-franklins-last-bet-michael-meyer?variant=40828366028834)
+Michael Meyer follows the money and it
 weaves together biographical and social themes in surprisingly entertaining
 ways. Franklin's hot takes were the tweets of that era and the interplay
 of personalities in letters and papers make history seem relevant and vital.
