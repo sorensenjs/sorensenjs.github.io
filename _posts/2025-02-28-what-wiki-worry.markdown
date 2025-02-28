@@ -27,7 +27,7 @@ potential administrator supply and streamline the RfA process.
 ## Pipeline problems
 
 <p align="center">
-  <img src="media/admins.png">
+  <img src="/media/admins.png">
 </p>
 
 From the [quantitative analysis](https://gitlab.wikimedia.org/repos/research/admin-recruitment-retention-and-attrition/-/blob/main/admin_tenure.ipynb?ref_type=heads)
