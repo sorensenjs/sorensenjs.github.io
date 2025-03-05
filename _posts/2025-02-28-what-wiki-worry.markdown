@@ -10,7 +10,7 @@ For the past year, after reading in the Wikipedia Signpost newsletter on
 [occasions](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-15/Special_report)
 that the number of active Wikipedia Administrators
 has been in relentless decline since 2008. I was hoping that the
-[final report](ihttps://upload.wikimedia.org/wikipedia/commons/5/5f/%28Final_Report%29_Administrator_recruitment%2C_retention%2C_%26_attrition_%28SDS1.2.2%29.pdf)
+[final report](https://upload.wikimedia.org/wikipedia/commons/5/5f/%28Final_Report%29_Administrator_recruitment%2C_retention%2C_%26_attrition_%28SDS1.2.2%29.pdf)
 from the foundation research effort that began last summer would lay the
 foundation for bold action. And, while the report does confirm that
 several large Wikipedia projects (i.e. languages) have a problem
