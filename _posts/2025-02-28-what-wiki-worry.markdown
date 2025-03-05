@@ -83,7 +83,7 @@ is not a concern. This perception - that the project is basically done - is
 perhaps even more damaging to recruitment. Being an administrator is a difficult
 task, as is amply documented in the report. If there is a loss of enthusiasm for
 the ongoing work of Wikipedia, why would people step forward to take this
-responsibility. I think the foundation could do a lot more to encourage people
+responsibility? I think the foundation could do a lot more to encourage people
 to become contributors - my own back of the envelope estimate is that the
 English Wikipedia is 20% complete - but that is a topic that is beyond the scope
 of the present discussion.
