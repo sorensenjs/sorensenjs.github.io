@@ -1,0 +1,21 @@
+
+---
+layout: post
+title:  "Dark Wire"
+date:   2025-12-29 07:54:00 +0000
+categories: book reviews
+---
+
+![Dark Wire](https://www.hachettebookgroup.com/wp-content/uploads/2024/04/9781541702691.jpg?resize=991,1536
+
+Working for a startup is famously all about burning the candle at both ends with long hours and, 
+usually, a string of emergencies each more urgent than whatever it is you are working on. 
+Working for the government is like being bogged down in bureaucracy and trapped in amber. 
+Now imagine a flame trapped in amber - this the story of 
+[_Dark Wire_](https://www.hachettebookgroup.com/titles/joseph-cox/dark-wire/9781541702691/?lens=publicaffairs) 
+about the FBI run cellular 
+phone network for criminals. Every security feature was compromised from tip to tail.
+
+I had to turn my tinfoil hat inside out to contain my mind being blown. 
+You almost start to feel sorry for the hapless criminals who were betrayed by technology - 
+but not quite. It's a hell of a story that deserves more attention.
