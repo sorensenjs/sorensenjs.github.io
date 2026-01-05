@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What Else Is On: Review of <i>No Other Choice</i>"
+title:  "What Else Is On: Review of No Other Choice"
 date:   2026-01-05 07:07:00 +0000
 categories: movie reviews
 ---
